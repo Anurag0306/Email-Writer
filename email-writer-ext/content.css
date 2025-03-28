@@ -1,0 +1,29 @@
+/* AI Reply Button Styling */
+.ai-reply-button {
+    background-color: #1a73e8; /* Gmail's default blue */
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ai-reply-button:hover {
+    background-color: #1765cc;
+}
+
+.ai-reply-button:active {
+    background-color: #0f4ba0;
+}
+
+.ai-reply-button:disabled {
+    background-color: #d2e3fc;
+    color: #888;
+    cursor: not-allowed;
+}
