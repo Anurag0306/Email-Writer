@@ -143,8 +143,8 @@ This project is intended **only for educational purposes**. Any kind of commerci
 
 ## 📬 Contact
 
-🔗 **GitHub**: [https://github.com/your-repo](https://github.com/your-repo)\
-📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+🔗 **GitHub**: [https://github.com/Email-Writer](https://github.com/Email-Writer)\
+📧 **Email**: [devexo.ai@gmail.com](mailto:devexo.ai@gmail.com)
 
 ---
 
